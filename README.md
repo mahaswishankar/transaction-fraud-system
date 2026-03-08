@@ -1,5 +1,5 @@
 # 💳 Transaction Fraud Detection
-### A JP Morgan-ready Data Science Project
+### A Data Science Project
 
 ---
 
@@ -15,9 +15,9 @@ fraud_detection_project/
 │   └── charts, models, reports saved here automatically
 │
 ├── fraud_detection_part1_eda.py         ✅ Done
-├── fraud_detection_part2_features.py    🔜 Coming soon
-├── fraud_detection_part3_models.py      🔜 Coming soon
-├── fraud_detection_part4_explainability.py  🔜 Coming soon
+├── fraud_detection_part2_features.py    ✅ Done
+├── fraud_detection_part3_models.py      ✅ Done
+├── fraud_detection_part4_explainability.py  ✅ Done
 │
 └── README.md
 ```
