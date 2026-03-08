@@ -50,19 +50,12 @@ python fraud_detection_part4_explainability.py  # coming soon
 | Part | File | Status | What it does |
 |------|------|--------|--------------|
 | 1 | `fraud_detection_part1_eda.py` | ✅ Ready | Data exploration, class imbalance, patterns |
-| 2 | `fraud_detection_part2_features.py` | 🔜 Soon | Feature engineering, scaling, SMOTE |
-| 3 | `fraud_detection_part3_models.py` | 🔜 Soon | Logistic Regression, Random Forest, XGBoost |
-| 4 | `fraud_detection_part4_explainability.py` | 🔜 Soon | SHAP values, model explainability |
+| 2 | `fraud_detection_part2_features.py` | ✅ Ready | Feature engineering, scaling, SMOTE |
+| 3 | `fraud_detection_part3_models.py` | ✅ Ready | Logistic Regression, Random Forest, XGBoost |
+| 4 | `fraud_detection_part4_explainability.py` | ✅ Ready | SHAP values, model explainability |
 
 ---
 
-## 🎯 Key Talking Points for JP Morgan Interview
-
-1. **Class Imbalance** — Only 0.17% fraud. Used SMOTE to handle it.
-2. **Right Metrics** — Used AUC-ROC, Precision, Recall — NOT just accuracy.
-3. **Feature Engineering** — Created hour-of-day, amount bins from raw data.
-4. **Model Explainability** — Used SHAP to explain WHY a transaction was flagged.
-5. **Real-world thinking** — Considered false positive cost (annoying legit customers).
 
 ---
 
